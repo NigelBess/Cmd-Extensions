@@ -1,0 +1,2 @@
+git fetch origin %1%
+git merge origin/%1%

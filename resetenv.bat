@@ -1,0 +1,1 @@
+git checkout master -- src\environments\environment.ts

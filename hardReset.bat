@@ -1,0 +1,3 @@
+echo hard resetting...
+git reset --hard HEAD
+git clean -fd -e environment.local.ts
